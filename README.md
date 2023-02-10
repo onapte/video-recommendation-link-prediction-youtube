@@ -1,1 +1,1 @@
-# video-recommendation-link-prediction-youtube
+# Personalized video recommendation and link prediction analysis for youtube
